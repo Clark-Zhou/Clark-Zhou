@@ -4,6 +4,28 @@
 
 <br>
 
+<!-- PROFILE-METRICS:START -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>01</strong><br>
+      <sub>Active AI project</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>CS</strong><br>
+      <sub>BSc @ CUHK(SZ)</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Full Stack</strong><br>
+      <sub>Prototype loop</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Daily</strong><br>
+      <sub>AI-assisted building</sub>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td width="64%">
@@ -37,18 +59,42 @@ location  Shenzhen / China
 
 ### Dashboard
 
-| Track | What I am building toward | Signal |
+| KPI | What I am building toward | Signal |
 | --- | --- | --- |
 | AI Agents | Turning workflows into useful assistants | Active project |
 | Full Stack | From interface to API to deployable prototype | Learning by shipping |
 | Product Taste | Making tools that feel clear, usable, and calm | Iterating |
 | Developer Workflow | Using AI as a thinking and coding partner | Daily practice |
 
+### Focus Metrics
+
+<table>
+  <tr>
+    <td width="50%">
+      <pre>
+AI Agents       [########--] 80%
+Full Stack      [######----] 60%
+Product Sense   [#######---] 70%
+Open Source     [####------] 40%</pre>
+    </td>
+    <td width="50%">
+      <pre>
+current cycle
+
+01  define a real workflow
+02  build a small prototype
+03  test the interaction
+04  refine and ship</pre>
+    </td>
+  </tr>
+</table>
+
 ### Current Loop
 
 ```txt
 idea -> prototype -> test -> learn -> ship
 ```
+<!-- PROFILE-METRICS:END -->
 
 ### Stack I Am Growing
 
