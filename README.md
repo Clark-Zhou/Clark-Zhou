@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/editorial-profile.svg" alt="Clark Zhou - editorial profile" width="100%" />
+  <img src="./assets/editorial-profile.svg" alt="Clark Zhou - editorial analytics profile" width="100%" />
 </p>
 
 <br>
@@ -35,11 +35,20 @@ location  Shenzhen / China
 
 ---
 
-### Now
+### Dashboard
 
-- Building and learning through an **AI-Agent project**
-- Practicing full-stack product thinking from idea to usable prototype
-- Exploring how AI tools change the way developers design, code, and ship
+| Track | What I am building toward | Signal |
+| --- | --- | --- |
+| AI Agents | Turning workflows into useful assistants | Active project |
+| Full Stack | From interface to API to deployable prototype | Learning by shipping |
+| Product Taste | Making tools that feel clear, usable, and calm | Iterating |
+| Developer Workflow | Using AI as a thinking and coding partner | Daily practice |
+
+### Current Loop
+
+```txt
+idea -> prototype -> test -> learn -> ship
+```
 
 ### Stack I Am Growing
 
@@ -52,7 +61,7 @@ location  Shenzhen / China
 | Project | What it shows | Status |
 | --- | --- | --- |
 | AI-Agent Project | Agent workflows, product thinking, iterative building | In progress |
-| Personal GitHub Home | Identity, presentation, and developer storytelling | Building |
+| Personal GitHub Home | Editorial identity plus dashboard-style signals | Building |
 
 ### GitHub Signal
 
