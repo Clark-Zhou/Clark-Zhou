@@ -1,0 +1,66 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Clark Zhou - GitHub profile editorial hero</title>
+  <desc id="desc">A clean editorial profile banner for Clark Zhou, focused on computer science and AI agents.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbfaf7"/>
+      <stop offset="0.48" stop-color="#f3f0e8"/>
+      <stop offset="1" stop-color="#e7edf0"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="120" y1="80" x2="1080" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.58" stop-color="#1f2937"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#1f2937" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" stroke="#111827" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="0" fill="url(#paper)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <g opacity="0.9">
+    <rect x="38" y="34" width="1124" height="352" stroke="#111827" stroke-opacity="0.18" stroke-width="1"/>
+    <rect x="56" y="52" width="1088" height="316" stroke="#0f766e" stroke-opacity="0.34" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(92 78)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#111827" fill-opacity="0.58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">
+      PROFILE / COMPUTER SCIENCE / AI AGENTS
+    </text>
+    <line x1="0" y1="42" x2="1016" y2="42" stroke="#111827" stroke-opacity="0.22"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <text x="92" y="196" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-weight="700" letter-spacing="0">
+      Clark Zhou
+    </text>
+    <text x="96" y="246" fill="#0f172a" fill-opacity="0.74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="4">
+      BSC COMPUTER SCIENCE AT CUHK(SZ)
+    </text>
+  </g>
+
+  <g transform="translate(92 304)">
+    <rect x="0" y="0" width="148" height="34" fill="#111827"/>
+    <text x="18" y="22" fill="#fbfaf7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">AI AGENTS</text>
+    <rect x="164" y="0" width="166" height="34" fill="#0f766e"/>
+    <text x="182" y="22" fill="#fbfaf7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">VIBE CODING</text>
+    <rect x="346" y="0" width="148" height="34" fill="#b45309"/>
+    <text x="364" y="22" fill="#fff7ed" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">BUILDING</text>
+  </g>
+
+  <g transform="translate(842 115)">
+    <circle cx="118" cy="94" r="88" fill="#ffffff" fill-opacity="0.72" stroke="#111827" stroke-opacity="0.18"/>
+    <text x="118" y="122" text-anchor="middle" fill="#111827" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700">CZ</text>
+    <path d="M 28 210 C 96 168, 162 254, 232 208" stroke="#0f766e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 42 232 C 112 194, 154 270, 220 236" stroke="#b45309" stroke-width="2" stroke-linecap="round" opacity="0.74"/>
+  </g>
+
+  <text x="92" y="376" fill="#111827" fill-opacity="0.46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">
+    SHENZHEN / GITHUB.COM/CLARK-ZHOU / BUILDING IN PUBLIC
+  </text>
+</svg>
