@@ -6,23 +6,30 @@
 
 ## Hi, I'm Clark Zhou
 
-I like turning messy ideas into useful, calm, and well-shaped software.
+I'm an underguaduate student in CUHK(SZ) and my major is Computer Science and Engineering.  
 
-Right now I am especially interested in:
+Though I study computer, I have much more interest in making product. Actually my wish is to be a PM of AI/Internet products.  
 
-- AI-assisted workflows and tooling
-- Full-stack product prototypes
-- Automation for repetitive work
-- Systems that make complex things feel simpler
+I'm now developing these personal programs:  
+
+- An AI-Interview-Simulator
+- My public personal website for self-introducing
+- My website for some ideas of stories that born from my mind.
+
+
 
 ## What I Care About
 
-Good software should feel clear before it feels clever. I enjoy building tools that are practical, thoughtfully designed, and easy to return to after the first use.
+Applicaation should be useful and efficient. I want to make something which is align to the need of me and my friends.
 
-## Current Direction
+## Stacks
 
-I am exploring how AI, product thinking, and engineering craft can work together to create faster feedback loops, better interfaces, and more useful everyday tools.
+I have studied Java, C++ and Python in the university. To be more almighty, I'm studying JavaScripts and React myself.
+
+## My Personal Style
+
+I'm experted to take commands on several AI sessions to build, develop, check and review programs. I also read and write some part of codes myself.
 
 ## Connect
 
-You can find me here on GitHub.
+My github: https://github.com/Clark-Zhou 
